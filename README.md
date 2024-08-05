@@ -14,7 +14,12 @@ Budget Project for MTH101 Course
  
 
  ## Workshops Reflections
- - Accesability
- - Multimodality
- - Engagement
+ - [Accesability Workshop](/ReflectionforAccesibilityWorkshop.pdf)
+ - Accessibility of Online and Digital Resources - Caitlin Kirby, EDLI, MSU & Sarah Wellman, EDLI, MSU &
+Imari Cheyne Tetu, EDLI and WRAC, MSU 
+ - [Multimodality](/ReflectionforMultimodalityWorkshop.pdf)
+ - Multimodality - Natalie Vandepol, EDLI, MSU &
+Imari Cheyne Tetu, EDLI and WRAC, MSU 
+ - [Engagement](/ReflectionforEngagementWorkshop.pdf)
+ - Promoting Student Classroom Engagement - Hala Sun & Min Zhuang  
  
