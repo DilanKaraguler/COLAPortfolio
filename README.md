@@ -3,7 +3,7 @@
 Dilan Karaguler, Mathematic PhD Student at MSU
 
 
-## Teaching Content
+### Teaching Content
 
 Budget Project for MTH101 Course
 - [Project Summary](/ProjectSummary.pdf)
@@ -11,12 +11,12 @@ Budget Project for MTH101 Course
 - [Budget Instruction](/BudgetProjectInstructions.pdf)
 
 
- ## Teaching Philosophy
+ ### Teaching Philosophy
  
  My teaching philosphy can be foun in the following [link](/TeachingPhilosophy-DilanKaraguler.pdf)
  
 
- ## Workshops Reflections
+ ### Workshops Reflections
  
  - [Accesability Workshop](/ReflectionforAccesibilityWorkshop.pdf)
  - Accessibility of Online and Digital Resources - Caitlin Kirby, EDLI, MSU & Sarah Wellman, EDLI, MSU &
