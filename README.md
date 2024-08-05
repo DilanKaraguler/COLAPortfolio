@@ -5,7 +5,7 @@ Dilan Karaguler, Mathematic PhD Student at MSU
 
 ## Teaching Content
 Budget Project for MTH101 Course
-- [Project Summary](/Project Summary.pdf)
+- [Project Summary](/ProjectSummary.pdf)
 - [Rental Data Excel Instruction](/RentalExcelInstructions.pdf)
 - [Budget Instruction](/BudgetProjectInstructions.pdf)
 
