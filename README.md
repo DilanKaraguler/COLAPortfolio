@@ -1,5 +1,5 @@
 # COLA Portfolio
-### General Reflection
+## General Reflection
 I am Dilan Karaguler, and I am PhD student in Mathematic at MSU. Attending COLA was a transformative experience for me, both professionally and personally.
 
 The workshops provided through COLA were incredibly enriching, offering cutting-edge insights into education. These sessions equipped me with innovative strategies and tools to enhance my teaching practices, ensuring I can deliver high-quality, engaging, and effective online learning experiences to my students.
@@ -11,20 +11,20 @@ Additionally, COLA played a crucial role in shaping my teaching philosophy. Thro
 The impact of COLA extended beyond immediate benefits. It also inspired me to consider attending the CCTI. The positive experience and the growth I achieved through COLA made me realize the value of continuous professional development and sparked my interest in further enhancing my teaching skills.
 
 
-### Teaching Content
+## Deliverible 1 - Teaching Content 
 
-Budget Project for MTH101 Course
+### Budget Project for MTH101 Course
 - [Project Summary](/ProjectSummary.pdf)
 - [Rental Data Excel Instruction](/RentalExcelInstructions.pdf)
 - [Budget Instruction](/BudgetProjectInstructions.pdf)
 
 
- ###Teaching Philosophy
+ ## Deliverible 2 - Teaching Philosophy 
  
- My teaching philosphy can be foun in the following [link](/TeachingPhilosophy-DilanKaraguler.pdf)
+ My teaching philosphy can be found in the following [link](/TeachingPhilosophy-DilanKaraguler.pdf)
  
 
- ### Workshops Reflections
+ ## Workshops Reflections 
  
  - [Accesability Workshop](/ReflectionforAccesibilityWorkshop.pdf)
  - Accessibility of Online and Digital Resources - Caitlin Kirby, EDLI, MSU & Sarah Wellman, EDLI, MSU &
