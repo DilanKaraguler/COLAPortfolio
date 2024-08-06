@@ -19,7 +19,7 @@ Budget Project for MTH101 Course
 - [Budget Instruction](/BudgetProjectInstructions.pdf)
 
 
- ### Teaching Philosophy
+ ###Teaching Philosophy
  
  My teaching philosphy can be foun in the following [link](/TeachingPhilosophy-DilanKaraguler.pdf)
  
