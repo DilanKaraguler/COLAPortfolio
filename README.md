@@ -14,9 +14,9 @@ The impact of COLA extended beyond immediate benefits. It also inspired me to co
 ## Deliverible 1 - Teaching Content 
 
 ### Budget Project for MTH101 Course
-- [Project Summary](/ProjectSummary.pdf)
-- [Rental Data Excel Instruction](/RentalExcelInstructions.pdf)
-- [Budget Instruction](/BudgetProjectInstructions.pdf)
+[Project Summary](/ProjectSummary.pdf)
+[Rental Data Excel Instruction](/RentalExcelInstructions.pdf)
+[Budget Instruction](/BudgetProjectInstructions.pdf)
 
 
  ## Deliverible 2 - Teaching Philosophy 
