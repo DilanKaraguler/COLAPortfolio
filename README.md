@@ -19,12 +19,12 @@ The impact of COLA extended beyond immediate benefits. It also inspired me to co
 [Budget Instruction](/BudgetProjectInstructions.pdf)
 
 
- ## Deliverible 2 - Teaching Philosophy 
+## Deliverible 2 - Teaching Philosophy 
  
  My teaching philosphy can be found in the following [link](/TeachingPhilosophy-DilanKaraguler.pdf)
  
 
- ## Workshops Reflections 
+## Workshops Reflections 
  
  - [Accesability Workshop](/ReflectionforAccesibilityWorkshop.pdf)
  - Accessibility of Online and Digital Resources - Caitlin Kirby, EDLI, MSU & Sarah Wellman, EDLI, MSU &
